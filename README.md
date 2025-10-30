@@ -29,8 +29,8 @@ Ideal for contacting professors, companies, or collaborators efficiently and sec
 ## 🧠 Example of `emails.txt`
 
 ```text
-SUJET: Quantification de l’incertitude et explicabilité des modèles multimodaux
-EMAIL: mostafa.elhabo@univ-brest.fr
+SUJET: Exemple 01
+EMAIL: exemple01@gmail.com
 
-SUJET: Métaheuristiques pour les problèmes de tournées de véhicules
-EMAIL: ala_eddine@utt.fr
+SUJET: Exemple 02
+EMAIL: exemple02@gmail.com
